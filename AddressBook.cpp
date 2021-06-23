@@ -14,9 +14,6 @@ void welcome_screen()
 	gotoxy(20,10);
 	cputs("**************** W E L C O M E  *********************** ");
 	gotoxy(25,12);
-	cputs("*** DPS RUBY PARK S C H O O L *** " );
-	gotoxy(20,14);
-	textcolor(WHITE);
 	cputs(" T E L E P H O N E  M A N A G E M E N T  S O F T W A R E  ");
 	gotoxy(38,16);
 	textcolor(WHITE);
